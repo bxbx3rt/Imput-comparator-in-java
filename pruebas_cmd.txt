@@ -1,0 +1,145 @@
+Microsoft Windows [Versión 10.0.26100.2454]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 127986 ms
+BufferedInputStream - Byte a byte: 1486 ms
+FileInputStream - Bloques de 512: 267 ms
+FileInputStream - Bloques de 4096: 47 ms
+FileInputStream - Bloques de 16384: 32 ms
+FileInputStream - Bloques de 32768: 16 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 123007 ms
+BufferedInputStream - Byte a byte: 1404 ms
+FileInputStream - Bloques de 512: 284 ms
+FileInputStream - Bloques de 4096: 55 ms
+FileInputStream - Bloques de 16384: 29 ms
+FileInputStream - Bloques de 32768: 22 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 128675 ms
+BufferedInputStream - Byte a byte: 1523 ms
+FileInputStream - Bloques de 512: 304 ms
+FileInputStream - Bloques de 4096: 60 ms
+FileInputStream - Bloques de 16384: 18 ms
+FileInputStream - Bloques de 32768: 16 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 128420 ms
+BufferedInputStream - Byte a byte: 1455 ms
+FileInputStream - Bloques de 512: 292 ms
+FileInputStream - Bloques de 4096: 59 ms
+FileInputStream - Bloques de 16384: 16 ms
+FileInputStream - Bloques de 32768: 32 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\FileInputStream - Byte a byte: 348930 msON\LAB\P6_PROG>java ComparaFlu
+BufferedInputStream - Byte a byte: 1460 ms
+FileInputStream - Bloques de 512: 306 ms
+FileInputStream - Bloques de 4096: 55 ms
+FileInputStream - Bloques de 16384: 32 ms
+FileInputStream - Bloques de 32768: 16 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 128575 ms
+BufferedInputStream - Byte a byte: 1476 ms
+FileInputStream - Bloques de 512: 284 ms
+FileInputStream - Bloques de 4096: 48 ms
+FileInputStream - Bloques de 16384: 32 ms
+FileInputStream - Bloques de 32768: 16 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>^N
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 127986 ms
+BufferedInputStream - Byte a byte: 1443 ms
+FileInputStream - Bloques de 512: 302 ms
+FileInputStream - Bloques de 4096: 63 ms
+FileInputStream - Bloques de 16384: 16 ms
+FileInputStream - Bloques de 32768: 32 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 128012 ms
+BufferedInputStream - Byte a byte: 1475 ms
+FileInputStream - Bloques de 512: 283 ms
+FileInputStream - Bloques de 4096: 45 ms
+FileInputStream - Bloques de 16384: 32 ms
+FileInputStream - Bloques de 32768: 32 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 128666 ms
+BufferedInputStream - Byte a byte: 1454 ms
+FileInputStream - Bloques de 512: 286 ms
+FileInputStream - Bloques de 4096: 48 ms
+FileInputStream - Bloques de 16384: 32 ms
+FileInputStream - Bloques de 32768: 16 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 127720 ms
+BufferedInputStream - Byte a byte: 1469 ms
+FileInputStream - Bloques de 512: 293 ms
+FileInputStream - Bloques de 4096: 62 ms
+FileInputStream - Bloques de 16384: 16 ms
+FileInputStream - Bloques de 32768: 32 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 128680 ms
+BufferedInputStream - Byte a byte: 1465 ms
+FileInputStream - Bloques de 512: 277 ms
+FileInputStream - Bloques de 4096: 59 ms
+FileInputStream - Bloques de 16384: 16 ms
+FileInputStream - Bloques de 32768: 32 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 127858 ms
+BufferedInputStream - Byte a byte: 1464 ms
+FileInputStream - Bloques de 512: 286 ms
+FileInputStream - Bloques de 4096: 45 ms
+FileInputStream - Bloques de 16384: 40 ms
+FileInputStream - Bloques de 32768: 22 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 128314 ms
+BufferedInputStream - Byte a byte: 1463 ms
+FileInputStream - Bloques de 512: 307 ms
+FileInputStream - Bloques de 4096: 56 ms
+FileInputStream - Bloques de 16384: 32 ms
+FileInputStream - Bloques de 32768: 27 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 129051 ms
+BufferedInputStream - Byte a byte: 1475 ms
+FileInputStream - Bloques de 512: 287 ms
+FileInputStream - Bloques de 4096: 48 ms
+FileInputStream - Bloques de 16384: 32 ms
+FileInputStream - Bloques de 32768: 16 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 127308 ms
+BufferedInputStream - Byte a byte: 1455 ms
+FileInputStream - Bloques de 512: 301 ms
+FileInputStream - Bloques de 4096: 63 ms
+FileInputStream - Bloques de 16384: 32 ms
+FileInputStream - Bloques de 32768: 32 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujo
+Error: no se ha encontrado o cargado la clase principal ComparaFlujo
+Causado por: java.lang.ClassNotFoundException: ComparaFlujo
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 131497 ms
+BufferedInputStream - Byte a byte: 1541 ms
+FileInputStream - Bloques de 512: 301 ms
+FileInputStream - Bloques de 4096: 63 ms
+FileInputStream - Bloques de 16384: 16 ms
+FileInputStream - Bloques de 32768: 32 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>java ComparaFlujos
+FileInputStream - Byte a byte: 134833 ms
+BufferedInputStream - Byte a byte: 1479 ms
+FileInputStream - Bloques de 512: 297 ms
+FileInputStream - Bloques de 4096: 61 ms
+FileInputStream - Bloques de 16384: 29 ms
+FileInputStream - Bloques de 32768: 24 ms
+
+C:\Users\otreb\OneDrive - Universitat de València\Escritorio\Apuntes\3º CARRERA\PROGRAMACION\LAB\P6_PROG>
